@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+imdb_top_250.csv
+.DS_Store
+Thumbs.db
